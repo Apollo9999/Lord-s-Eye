@@ -14,6 +14,8 @@ Smart Watches and Wearable Devices are rapidly being adopted by customers, bring
 
 Bridging the gap between HMI and Wearable Lowe Power devices two is what Project is about - Developing a Hand Gesture recognition system that can be incorporated into a smart watch strap or as a stand alone bracelet, which is low power and much more accurate compared to existing technologies in this field.
 
+***Value Added Detailing Information can be found here https://github.com/Apollo9999/Lord-s-Eye/blob/main/Detailing%20information.pdf ***
+
 Project Objective
 
 The Objective of our project is to build a Bio sensing technology that future wearable devices can incorporate. This technology will then enable gesture recognition for these devices adding better Human Machine Interfacing. Leveraging 5G, IoT and AI on the cloud and with Blockchain makes the patient data tamper proof, this will also be able to sense changes in the users body and take necessary actions as part of our project Biomedical data used :The type of data considered in the proposed blockchain application, e.g. medical health records, personal health records, consent forms, drug information, environmental data, location, Reports, etc. to encourage the patients with diseases like diabetes to monitor their blood sugar by rewarding them with points to obtain items and get some medical tests for free. The Reward system is so extensive with Healthy lifestyle of patients.AI Smart Band that can detect hand gestures and also monitor body for sudden changes in body conditions that may point to seizures or other conditions.
