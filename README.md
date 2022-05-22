@@ -1,9 +1,44 @@
-# Blood-Pressure-Prediction-and-Peronalized-Health-Behavior-Recommendation
-[![Blood Pressure](https://img.shields.io/badge/Blood%20Pressure%20Data-Omron%20Wellness-orange)](https://www.omronwellness.com/Home/Landing)
-[![Samsung Health](https://img.shields.io/badge/Health%20%26%20Fitness%20Data-Samsung%20Galaxy%20Watch-9cf)](https://www.samsung.com/au/support/mobile-devices/galaxy-watch-samsung-health/)
-[![Project Status](https://img.shields.io/badge/Project%20Status-1st%20Stage-ff69b4)](https://github.com/kwanmolee/Blood-Pressure-Prediction-and-Peronalized-Health-Behavior-Recommendation)
+ntroduction
 
-The project, in collaboration with UCSD Health and Samsung, aimed to realize proactive, continuous and personalized virtual healthcare utilizing health and fitness data collected from Samsung Galaxy Watch. We work to propose machine learning based healthcare analytics and maximize automated and continuous collection of user data like calories, exercises, sleep, heart rate, step count, contextual data and etc.
+Healthcare use cases cover a broad range of scenarios, from personal wearables for health monitoring, through diagnosis and treatment in a medical setting, to high-speed mobility communication between Biomedical sensors to the device and to an ambulance and hospital. However, as technology improves, new devices are being created that can take a more proactive role in healthcare such as providing connectivity to a medical team for remote diagnosis and treatment. These new devices herald the coming of 5G healthcare for Electrical impedance tomography or EMG (Electromyography).From these Biosensors, such immense and diverse data needs special treatment concerning the end-to-end delay, bandwidth, latency, and other attributes. Therefore, the 5G networks are being designed and developed to tackle the diverse communication needs of health-careapplications in the Internet of Things (IoT). 5G assisted smart healthcare networks are anamalgamation of IoT devices that require improved network performance and enhanced cellular coverage. Current connectivity solutions for IoT face challenges, such as the support for amassive number of devices, standardization, energy efficiency, device density, and security.
+
+Salient features
+
+1) Main goal of the project is to build a hand gesture recognition system that can be turned into a wearable device or incorporated into future smart watches. In addition to this, research is going on to find out how the same technology can be used to detect changes in body conditions like sudden spike or drop in blood sugar levels or onset of a seizure.
+
+2) The value added feature of the project can be defined as Non Invasive Biomed Sensing for Cross Section Imaging and Gesture Recognition
+
+Why SMART WEARABLE DEVICE Monitoring USING Blockchain Technology For Healthy Lifestyle By enhancing with Reward System?
+
+Smart Watches and Wearable Devices are rapidly being adopted by customers, bring them more closer to powerful technologies. At the same time, hand based input still remains the best mode of human machine interface (HMI) and we envision a future where hand gestures is all we need to effectively interact with a machine. Leap Motion, Kinect and similar sensors can be seen as earlier implementations of this technology. Wearable versions of the same implementation uses EMG sensor (Myo band) and/or pressure sensors to approximate various gestures.
+
+Bridging the gap between HMI and Wearable Lowe Power devices two is what Project is about - Developing a Hand Gesture recognition system that can be incorporated into a smart watch strap or as a stand alone bracelet, which is low power and much more accurate compared to existing technologies in this field.
+
+Project Objective
+
+The Objective of our project is to build a Bio sensing technology that future wearable devices can incorporate. This technology will then enable gesture recognition for these devices adding better Human Machine Interfacing. Leveraging 5G, IoT and AI on the cloud and with Blockchain makes the patient data tamper proof, this will also be able to sense changes in the users body and take necessary actions as part of our project Biomedical data used :The type of data considered in the proposed blockchain application, e.g. medical health records, personal health records, consent forms, drug information, environmental data, location, Reports, etc. to encourage the patients with diseases like diabetes to monitor their blood sugar by rewarding them with points to obtain items and get some medical tests for free. The Reward system is so extensive with Healthy lifestyle of patients.AI Smart Band that can detect hand gestures and also monitor body for sudden changes in body conditions that may point to seizures or other conditions.
+
+Solution Approach
+
+Leveraging Biosensing Devices with Blockchain so as to maintain tamper proof data of patients The main motive and intent in considering The blockchain is to make use of data from Bio sensable devices :The type of data considered in the proposed blockchain application, e.g. medical health records, personal health records, consent forms, drug information, environmental data, location, medical evidence data. Blockchain defined as a chain of blocks that are time-stamped and connected using cryptographic hashes. A block may contain transactions of many users and generally is publicly available to all users of the network. Additionally, each block contains the hash of the previous block and the transaction data, thus creating a secure and immutable, append-only chain. This chain continuously increases in length as each new block is being added in its end. The blockchain is organized in a peer-to-peer network.
+
+Application area: the specific biomedical area considered in the project, e.g. health records, clinical trials, medicines, medical evidence databases, medical education.
+
+Maturity of approach: using the following scale (a) research proposal of a novel blockchain application; (b) architectural design of a system or system component employing blockchain technologies; (c) implementation of a working prototype of the proposed blockchain system component, with details on the technical platforms and tools used; and (d) evaluation in the real setting.
+
+Reasons for using blockchain: to what end blockchain technology is exploited in each application, for example, access control, non-repudiation, data auditing, data provenance, data versioning and integrity.
+
+Our Project imagine a world where where Smart Wearable device:- 1. The smart band acts as a standalone device, is smart enough to let the user control connected devices, and also monitors their health. 2. Biomonitoring in hospitals is non-invasive and all bands are connected only to a central NextUnit of Computing residing within their premises.
+
+Technology Stack
+
+Blockchain and Python
+
+Advantages of the Smart Wearable devices for the project are defined as follows :-
+
+Non-invasive imaging modality Does not apply any kind of ionizing radiation Electrodes are attached on the surface of a subject Current is injected into the subject through electrodes Real-time radiation-free monitoring tool Neonatal friendly Smaller form factor An unobtrusive system that provides gesture-based input to mobile devices Affords quick access and the capability to interact with a mobile device while being engaged in other physical activities Portable & inexpensive Low power requirements Easy to use and comfortable
+
+The project,aimed to realize proactive, continuous and personalized virtual healthcare utilizing health and fitness data collected from Samsung Galaxy Watch. We work to propose machine learning based healthcare analytics and maximize automated and continuous collection of user data like calories, exercises, sleep, heart rate, step count, contextual data and etc.
 
 Photoplethysmogram (PPG) signals collected by Galaxy Watch were also utilized to estimate continuous blood pressure. Using the proposed feature engineering and selection techniques, we worked to address the limited, noisy, unaligned and irregularly sampled data collected from various sources.
 
